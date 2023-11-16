@@ -1,1 +1,1 @@
-This is the simple storage project from Patrick Collins' course using hardhat framework
+This a simple storage project to get familiar with hardhat
